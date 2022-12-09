@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerView(HW)</string>
+    <string name="hmm1">Heroes of Might and Magic</string>
+    <string name="hmm2">Heroes of Might and Magic II: The Succession Wars</string>
+    <string name="hmm3">Heroes of Might and Magic III: The Restoration of Erathia</string>
+    <string name="hmm4">Heroes of Might and Magic IV</string>
+    <string name="hmm5">Heroes of Might and Magic V</string>
+    <string name="hmm6">Might of Magic Heroes VI</string>
+    <string name="hmm7">Might of Magic Heroes VII</string>
+
+    <string name="hmm1date">year of release: 1995</string>
+    <string name="hmm2date">year of release: 1996</string>
+    <string name="hmm3date">year of release: 1999</string>
+    <string name="hmm4date">year of release: 2002</string>
+    <string name="hmm5date">year of release: 2006</string>
+    <string name="hmm6date">year of release: 2011</string>
+    <string name="hmm7date">year of release: 2015</string>
+
+    <string name="bt_vertical">vertical</string>
+    <string name="bt_horizontal">horizontal</string>
+    <string name="bt_grid">grid</string>
+    <string name="action_switch_layout">Switch Layout</string>
+
+</resources>
